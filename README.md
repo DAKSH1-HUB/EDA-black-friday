@@ -11,19 +11,19 @@ I have performed Exploratory data analysis with these tasks.
 
 ---------------------DATA PREPROCESSING----------------------
 
-Check basic statistics of dataset
-Check for missing values in the data
-check for unique values in data
-Perform EDA
-Purchase Distribution
-check for outliers
+Checked basic statistics of dataset
+Checked for missing values in the data
+checked for unique values in data
+Performed EDA
+Purchased Distribution
+checked for outliers
 Analysis by Gender, Marital Status, occupation, occupation vs purchase , purchase by city, purchase by age group, etc
-Drop unnecessary fields
-Convert categorical data into integer using map function (e.g 'Gender' column)
-missing value treatment
-Rename columns
-fill nan values
-map range variables into integers (e.g 'Age' column)
+Droped unnecessary fields
+Converted categorical data into integer using map function (e.g 'Gender' column)
+performed missing value treatment
+Renamed columns
+filled nan values
+maped range variables into integers (e.g 'Age' column)
 
 -----------Data Visualisation----------------------
 
